@@ -1,0 +1,14 @@
+C:\Users\aartibhaskar\source\repos\assignmenttask\bin\Debug\netcoreapp3.1\assignmenttask.exe
+C:\Users\aartibhaskar\source\repos\assignmenttask\bin\Debug\netcoreapp3.1\assignmenttask.deps.json
+C:\Users\aartibhaskar\source\repos\assignmenttask\bin\Debug\netcoreapp3.1\assignmenttask.runtimeconfig.json
+C:\Users\aartibhaskar\source\repos\assignmenttask\bin\Debug\netcoreapp3.1\assignmenttask.runtimeconfig.dev.json
+C:\Users\aartibhaskar\source\repos\assignmenttask\bin\Debug\netcoreapp3.1\assignmenttask.dll
+C:\Users\aartibhaskar\source\repos\assignmenttask\bin\Debug\netcoreapp3.1\assignmenttask.pdb
+C:\Users\aartibhaskar\source\repos\assignmenttask\obj\Debug\netcoreapp3.1\assignmenttask.csproj.AssemblyReference.cache
+C:\Users\aartibhaskar\source\repos\assignmenttask\obj\Debug\netcoreapp3.1\assignmenttask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aartibhaskar\source\repos\assignmenttask\obj\Debug\netcoreapp3.1\assignmenttask.AssemblyInfoInputs.cache
+C:\Users\aartibhaskar\source\repos\assignmenttask\obj\Debug\netcoreapp3.1\assignmenttask.AssemblyInfo.cs
+C:\Users\aartibhaskar\source\repos\assignmenttask\obj\Debug\netcoreapp3.1\assignmenttask.csproj.CoreCompileInputs.cache
+C:\Users\aartibhaskar\source\repos\assignmenttask\obj\Debug\netcoreapp3.1\assignmenttask.dll
+C:\Users\aartibhaskar\source\repos\assignmenttask\obj\Debug\netcoreapp3.1\assignmenttask.pdb
+C:\Users\aartibhaskar\source\repos\assignmenttask\obj\Debug\netcoreapp3.1\assignmenttask.genruntimeconfig.cache
