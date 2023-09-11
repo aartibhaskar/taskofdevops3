@@ -1,0 +1,14 @@
+C:\Users\aartibhaskar\source\repos\dotnetprojectfordevops\bin\Debug\netcoreapp3.1\dotnetprojectfordevops.exe
+C:\Users\aartibhaskar\source\repos\dotnetprojectfordevops\bin\Debug\netcoreapp3.1\dotnetprojectfordevops.deps.json
+C:\Users\aartibhaskar\source\repos\dotnetprojectfordevops\bin\Debug\netcoreapp3.1\dotnetprojectfordevops.runtimeconfig.json
+C:\Users\aartibhaskar\source\repos\dotnetprojectfordevops\bin\Debug\netcoreapp3.1\dotnetprojectfordevops.runtimeconfig.dev.json
+C:\Users\aartibhaskar\source\repos\dotnetprojectfordevops\bin\Debug\netcoreapp3.1\dotnetprojectfordevops.dll
+C:\Users\aartibhaskar\source\repos\dotnetprojectfordevops\bin\Debug\netcoreapp3.1\dotnetprojectfordevops.pdb
+C:\Users\aartibhaskar\source\repos\dotnetprojectfordevops\obj\Debug\netcoreapp3.1\dotnetprojectfordevops.csproj.AssemblyReference.cache
+C:\Users\aartibhaskar\source\repos\dotnetprojectfordevops\obj\Debug\netcoreapp3.1\dotnetprojectfordevops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aartibhaskar\source\repos\dotnetprojectfordevops\obj\Debug\netcoreapp3.1\dotnetprojectfordevops.AssemblyInfoInputs.cache
+C:\Users\aartibhaskar\source\repos\dotnetprojectfordevops\obj\Debug\netcoreapp3.1\dotnetprojectfordevops.AssemblyInfo.cs
+C:\Users\aartibhaskar\source\repos\dotnetprojectfordevops\obj\Debug\netcoreapp3.1\dotnetprojectfordevops.csproj.CoreCompileInputs.cache
+C:\Users\aartibhaskar\source\repos\dotnetprojectfordevops\obj\Debug\netcoreapp3.1\dotnetprojectfordevops.dll
+C:\Users\aartibhaskar\source\repos\dotnetprojectfordevops\obj\Debug\netcoreapp3.1\dotnetprojectfordevops.pdb
+C:\Users\aartibhaskar\source\repos\dotnetprojectfordevops\obj\Debug\netcoreapp3.1\dotnetprojectfordevops.genruntimeconfig.cache
